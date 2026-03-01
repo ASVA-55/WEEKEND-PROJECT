@@ -10,7 +10,7 @@ def get_three_digit_input(prompt):
 
 
 def sum_three_values(a, b, c):
-    return a + b + c
+    return a
 
 
 def main():
