@@ -10,7 +10,7 @@ def get_input(prompt):
 
 
 def sum(a, b, c):
-    return a
+    return a+b+c
 
 
 def main():
